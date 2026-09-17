@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment files (never commit secrets)
+.env
+.env.local
+.env.*.local
+frontend/.env
+backend/.env
+
+# Keep examples
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

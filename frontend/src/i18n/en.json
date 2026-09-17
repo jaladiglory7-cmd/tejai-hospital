@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "doctors": "Doctors",
+    "categories": "Who I See Most",
+    "whyChooseUs": "Why Choose Us",
+    "consultation": "Consultation",
+    "faq": "FAQ",
+    "location": "Location",
+    "bookAppointment": "Book Your Consultation Today",
+    "chat": "AI Assistant"
+  },
+  "hero": {
+    "tagline": "Technology. People. Better Health.",
+    "title": "Healthy Skin Confident You",
+    "subtitle": "Expert Dermatology Care for Every Skin, Hair and You",
+    "handwritten": "Skin Hair Health for a Brighter Tomorrow",
+    "cta1": "Book Your Consultation Today",
+    "cta2": "Chat on WhatsApp",
+    "stat1Value": "8+",
+    "stat1Label": "Years of Experience",
+    "stat2Value": "10,000+",
+    "stat2Label": "Patients Treated",
+    "stat3Value": "Advanced",
+    "stat3Label": "Dermatology Services at TejAI Hospital",
+    "advancedServices": "Advanced Dermatology Services at TejAI Hospital",
+    "doctorCaption": "Consultant Dermatologists"
+  },
+  "services": {
+    "sectionTitle": "Dermatology Services",
+    "sectionSubtitle": "Advanced Dermatology Services at TejAI Hospital",
+    "knowMore": "Know More"
+  },
+  "doctors": {
+    "sectionTitle": "Meet Our Doctors",
+    "sectionSubtitle": "Consultant Dermatologists at TejAI Multi-Specialty Hospital",
+    "experience": "Experience",
+    "years": "yrs",
+    "bookWith": "Book with"
+  },
+  "patientCategories": {
+    "sectionTitle": "Who I See Most",
+    "sectionSubtitle": "Different people. Different needs. Same trusted care.",
+    "youngProfessionals": "Young Professionals",
+    "youngProfessionalsDesc": "Quick, effective treatments that fit a busy schedule",
+    "preBridal": "Pre-Bridal / Bridal",
+    "preBridalDesc": "Radiant skin and hair for your special day",
+    "genZ": "Gen-Z",
+    "genZDesc": "Modern solutions for acne, texture and glow",
+    "antiAging": "Anti-Aging (35–55)",
+    "antiAgingDesc": "Healthy, youthful skin at every age",
+    "newMothers": "New / Postpartum Mothers",
+    "newMothersDesc": "Caring, safe solutions for postpartum skin and hair"
+  },
+  "whyChooseUs": {
+    "sectionTitle": "Good skin is not a luxury, it's a form of self-care.",
+    "sectionQuoteAttr": "Dr. Anjali Reddy",
+    "sectionSubtitle": "We believe in honest advice, evidence-based treatments and long-term relationships with our patients.",
+    "evidenceTitle": "Safe & Evidence-Based Care",
+    "evidenceDesc": "Treatments grounded in evidence and dermatology guidelines",
+    "personalizedTitle": "Personalized Treatment Plans",
+    "personalizedDesc": "Custom protocols designed for your unique skin, hair and goals",
+    "allTonesTitle": "Care for All Skin Types & Tones",
+    "allTonesDesc": "Every skin type and tone receives the same trusted, expert care"
+  },
+  "consultationProcess": {
+    "sectionTitle": "Your first consultation — no surprises",
+    "sectionSubtitle": "",
+    "step1Title": "Tell us your concern",
+    "step1Desc": "Share your skin or hair concern via the appointment form or WhatsApp",
+    "step2Title": "Doctor examines & understands your history",
+    "step2Desc": "Your doctor examines the area and takes time to understand your history",
+    "step3Title": "Diagnosis & options explained",
+    "step3Desc": "Clear diagnosis and honest treatment options explained before you begin",
+    "step4Title": "You decide the next step",
+    "step4Desc": "You choose the plan that suits you — no pressure, no surprises"
+  },
+  "testimonials": {
+    "eyebrow": "Patient Stories",
+    "sectionTitle": "What our patients say",
+    "sectionSubtitle": "Stories of patients treated at TejAI Hospital, shared after verification",
+    "pendingBody": "Verified patient testimonials will be published here.",
+    "disclaimer": "Verified patient testimonials will be published here. Individual experiences may vary."
+  },
+  "faq": {
+    "sectionTitle": "Frequently Asked Questions",
+    "sectionSubtitle": "Answers to the questions we hear most often",
+    "loadError": "Unable to load FAQs right now."
+  },
+  "location": {
+    "sectionTitle": "Our Location",
+    "sectionSubtitle": "TejAI Multi-Specialty Hospital, Madhapur, Hyderabad",
+    "getDirections": "Get Directions",
+    "callNow": "Call Now",
+    "bookOnWhatsApp": "Chat on WhatsApp"
+  },
+  "appointment": {
+    "sectionTitle": "Book Your Consultation Today",
+    "sectionSubtitle": "Schedule a visit with our dermatology specialists",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email (Optional)",
+    "date": "Preferred Date",
+    "time": "Preferred Time",
+    "concern": "Select Your Concern",
+    "message": "Additional Message (Optional)",
+    "submit": "Book Your Consultation Today",
+    "submitting": "Booking...",
+    "successTitle": "Appointment Request Received",
+    "successDesc": "Our team will contact you shortly to confirm your appointment. For urgent requests, reach us on WhatsApp.",
+    "error": "We couldn't book your appointment. Please try again or reach us on WhatsApp.",
+    "validationError": "Please fill all required fields correctly.",
+    "namePlaceholder": "Your full name",
+    "phonePlaceholder": "e.g. 98765 43210",
+    "concernOptions": [
+      "Acne & Acne Scars",
+      "Hair Fall",
+      "Pigmentation & Melasma",
+      "Skin Allergies",
+      "Psoriasis",
+      "Mole / Skin Lesion Screening",
+      "Pre-Bridal Skin Prep",
+      "Anti-Aging",
+      "Other Skin / Cosmetic Concern"
+    ]
+  },
+  "ai": {
+    "title": "DermaAI Assistant",
+    "subtitle": "Ask us anything about skin, hair or cosmetics",
+    "placeholder": "Type your question in English or Telugu...",
+    "send": "Send",
+    "disclaimer": "DermaAI provides general information only and is not a substitute for a dermatologist consultation.",
+    "escalation": "Prefer talking to a specialist?",
+    "bookNow": "Book Appointment",
+    "whatsappChat": "Chat on WhatsApp",
+    "welcome": "Hello! I'm DermaAI, the virtual assistant of TejAI Multi-Specialty Hospital. I can answer general questions about skin, hair and cosmetic conditions in English or Telugu. How can I help you today?",
+    "welcomeTe": "నమస్కారం! నేను DermaAI, TejAI మల్టీ-స్పెషాలిటీ హాస్పిటల్ యొక్క వర్చువల్ సహాయకుడిని. చర్మం, జుట్టు మరియు సౌందర్య పరిస్థితుల గురించి సాధారణ ప్రశ్నలకు నేను ఆంగ్లం లేదా తెలుగులో సమాధానం ఇవ్వగలను. నేను ఈ రోజు మీకు ఎలా సహాయం చేయగలను?",
+    "thinking": "DermaAI is thinking...",
+    "networkError": "Unable to reach the assistant right now. Please try again.",
+    "emptyMessage": "Please type a question first.",
+    "openChat": "Chat with us",
+    "closeChat": "Close"
+  },
+  "whatsapp": {
+    "float": "Chat on WhatsApp",
+    "defaultMessage": "Hello, I would like to inquire about dermatology services at TejAI Multi-Specialty Hospital.",
+    "defaultMessageTe": "నమస్కారం, నేను TejAI మల్టీ-స్పెషాలిటీ హాస్పిటల్ చర్మ వ్యాధి సేవల గురించి తెలుసుకోవాలనుకుంటున్నాను."
+  },
+  "footer": {
+    "description": "Powering Digital Healthcare for a Healthier Tomorrow",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "clinicHours": "Clinic Hours",
+    "followUs": "Follow Us",
+    "website": "Website",
+    "copyright": "TejAI Tech Services. All rights reserved.",
+    "disclaimer": "Please note: The content on this website is for general information only and does not constitute medical advice. Always consult a qualified dermatologist for diagnosis and treatment."
+  },
+  "common": {
+    "whatsapp": "WhatsApp",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "tryAgain": "Try Again"
+  }
+}
